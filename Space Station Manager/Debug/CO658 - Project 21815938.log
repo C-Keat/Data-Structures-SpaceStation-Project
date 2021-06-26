@@ -1,0 +1,38 @@
+﻿  Astronaut.cpp
+  Botanist.cpp
+  CO658 - Project 21815938.cpp
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\CO658 - Project 21815938.cpp(17,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(37,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(33): message :  while compiling class template member function 'Room<Habitat>::Room(int,int,float)'
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Habitat.h(13): message :  see reference to function template instantiation 'Room<Habitat>::Room(int,int,float)' being compiled
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Habitat.h(4): message :  see reference to class template instantiation 'Room<Habitat>' being compiled
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Tree.h(86,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Tree.h(84): message :  while compiling class template member function 'void Tree<CockPit>::TreeInsert(int,int,int,int)'
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\CO658 - Project 21815938.cpp(24): message :  see reference to function template instantiation 'void Tree<CockPit>::TreeInsert(int,int,int,int)' being compiled
+  CockPit.cpp
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\CO658 - Project 21815938.cpp(21): message :  see reference to class template instantiation 'Tree<CockPit>' being compiled
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(37,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(33): message :  while compiling class template member function 'Room<CockPit>::Room(int,int,float)'
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\CockPit.h(13): message :  see reference to function template instantiation 'Room<CockPit>::Room(int,int,float)' being compiled
+  EngineerStation.cpp
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\CockPit.h(4): message :  see reference to class template instantiation 'Room<CockPit>' being compiled
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(37,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(33): message :  while compiling class template member function 'Room<EngineerStation>::Room(int,int,float)'
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\EngineerStation.h(12): message :  see reference to function template instantiation 'Room<EngineerStation>::Room(int,int,float)' being compiled
+  Habitat.cpp
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\EngineerStation.h(4): message :  see reference to class template instantiation 'Room<EngineerStation>' being compiled
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(37,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Room.h(33): message :  while compiling class template member function 'Room<Habitat>::Room(int,int,float)'
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Habitat.h(13): message :  see reference to function template instantiation 'Room<Habitat>::Room(int,int,float)' being compiled
+  Mechanic.cpp
+  OxygenLinkedStack.cpp
+  OxygenSorter.cpp
+  OxygenTank.cpp
+  Pilot.cpp
+  Room.cpp
+  SpaceManager.cpp
+  Tree.cpp
+  Generating Code...
+E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\CO658 - Project 21815938\Habitat.h(4): message :  see reference to class template instantiation 'Room<Habitat>' being compiled
+  LINK : E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\Debug\CO658 - Project 21815938.exe not found or not built by the last incremental link; performing full link
+  CO658 - Project 21815938.vcxproj -> E:\Year 3\S 2\Data Structures\CO658 - Project 21815938\Debug\CO658 - Project 21815938.exe
